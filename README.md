@@ -27,7 +27,6 @@ A home security robot project for competition, based on Arduino/ESP32.
 4. 运行视觉：`cd firmware/vision_sensor && python main.py`
 
 ## 📁 项目结构
-（将上面的目录树粘贴在这里）
 
 ## 👥 团队成员
 - **李储同** - 驱动与控制 (`firmware/motor_control/`)
